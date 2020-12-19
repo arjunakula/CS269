@@ -1,0 +1,32 @@
+/home/arjunakula/Downloads/test/VizWiz_test_00004184.jpg  <sep>  A frisbee laying on the ground in the dirt.
+/home/arjunakula/Downloads/test/VizWiz_test_00004361.jpg  <sep>  A person is holding a suitcase with a person standing in the background.
+/home/arjunakula/Downloads/test/VizWiz_test_00007911.jpg  <sep>  A green train is on the tracks near a fence. the background.
+/home/arjunakula/Downloads/test/VizWiz_test_00006087.jpg  <sep>  Two pairs of scissors sitting on a black suitcase.. the background.
+/home/arjunakula/Downloads/test/VizWiz_test_00007015.jpg  <sep>  A piece of paper with a book on it.. the background.
+/home/arjunakula/Downloads/test/VizWiz_test_00005224.jpg  <sep>  A close up of a computer screen with a map. the background.
+/home/arjunakula/Downloads/test/VizWiz_test_00001014.jpg  <sep>  A close up of a bottle of a bottle map. the background.
+/home/arjunakula/Downloads/test/VizWiz_test_00005746.jpg  <sep>  A laptop computer sitting on top of a table.. the background.
+/home/arjunakula/Downloads/test/VizWiz_test_00005051.jpg  <sep>  A bed with a blue and white blanket and a black blanket..
+/home/arjunakula/Downloads/test/VizWiz_test_00007674.jpg  <sep>  A plastic bag filled with a red bag. a black blanket..
+/home/arjunakula/Downloads/test/VizWiz_test_00001573.jpg  <sep>  A picture of a bed with a remote control on it...
+/home/arjunakula/Downloads/test/VizWiz_test_00007683.jpg  <sep>  A picture of a book that is on a table....
+/home/arjunakula/Downloads/test/VizWiz_test_00007526.jpg  <sep>  A magazine with a toy on the table. table....
+/home/arjunakula/Downloads/test/VizWiz_test_00005614.jpg  <sep>  A person holding a bottle of beer in their hand....
+/home/arjunakula/Downloads/test/VizWiz_test_00007735.jpg  <sep>  A red and white circle shaped like a santa claus hat...
+/home/arjunakula/Downloads/test/VizWiz_test_00006455.jpg  <sep>  A blurry photo of a person in the dark....
+/home/arjunakula/Downloads/test/VizWiz_test_00006680.jpg  <sep>  A close up of a toothbrush in a blender...
+/home/arjunakula/Downloads/test/VizWiz_test_00000992.jpg  <sep>  A computer screen with a map and a message.er...
+/home/arjunakula/Downloads/test/VizWiz_test_00002510.jpg  <sep>  A person's hand is holding a piece of paper...
+/home/arjunakula/Downloads/test/VizWiz_test_00004874.jpg  <sep>  A close up of a pocket watch and a pair of scissors..
+/home/arjunakula/Downloads/test/VizWiz_test_00007502.jpg  <sep>  A close up of a knitted tie with hearts on it..
+/home/arjunakula/Downloads/test/VizWiz_test_00002328.jpg  <sep>  A package of hot dogs with a picture of a hotdog..
+/home/arjunakula/Downloads/test/VizWiz_test_00005216.jpg  <sep>  Two white cotton swadwos and a white cord on a wooden table
+/home/arjunakula/Downloads/test/VizWiz_test_00006816.jpg  <sep>  A view of a red wall with a red background. on a wooden table
+/home/arjunakula/Downloads/test/VizWiz_test_00002776.jpg  <sep>  A close up of a computer keyboard on a table. on a wooden table
+/home/arjunakula/Downloads/test/VizWiz_test_00006007.jpg  <sep>  A person standing next to a bottle of alcohol.. on a wooden table
+/home/arjunakula/Downloads/test/VizWiz_test_00006068.jpg  <sep>  A blurry photo of a person's reflection in a mirror. table
+/home/arjunakula/Downloads/test/VizWiz_test_00005642.jpg  <sep>  A bottle of wine sitting on top of a counter. a mirror. table
+/home/arjunakula/Downloads/test/VizWiz_test_00004103.jpg  <sep>  A bathroom with a mirror and a pair of scissors. a mirror. table
+/home/arjunakula/Downloads/test/VizWiz_test_00003642.jpg  <sep>  A dog laying on the floor with its head on a shoe.. table
+/home/arjunakula/Downloads/test/VizWiz_test_00000577.jpg  <sep>  A cat is sitting on a ledge in a room. shoe.. table
+/home/arjunakula/Downloads/test/VizWiz_test_00004934.jpg  <sep>  A bird is sitting on a white surface. room. shoe.. table

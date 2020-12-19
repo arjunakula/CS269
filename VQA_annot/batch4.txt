@@ -1,0 +1,13 @@
+/home/arjunakula/Downloads/test/VizWiz_test_00004184.jpg  <sep>  A yellow frisbee is sitting on the ground. <sep> donut
+/home/arjunakula/Downloads/test/VizWiz_test_00004361.jpg  <sep>  A person is sitting on a bed with a suitcase. <sep> woman
+/home/arjunakula/Downloads/test/VizWiz_test_00007911.jpg  <sep>  A train is parked on a sidewalk near a tree. <sep> fence
+/home/arjunakula/Downloads/test/VizWiz_test_00006087.jpg  <sep>  A pair of scissors sitting on top of a wooden floor. <sep> phone
+/home/arjunakula/Downloads/test/VizWiz_test_00007015.jpg  <sep>  A book with a book on it sitting on a table. <sep> book
+/home/arjunakula/Downloads/test/VizWiz_test_00005224.jpg  <sep>  A close up of a book on a table a table. <sep> wires
+/home/arjunakula/Downloads/test/VizWiz_test_00001014.jpg  <sep>  A bottle of wine is sitting on a table. table. <sep> cup
+/home/arjunakula/Downloads/test/VizWiz_test_00005746.jpg  <sep>  A cell phone sitting on top of a table. table. <sep> food
+/home/arjunakula/Downloads/test/VizWiz_test_00005051.jpg  <sep>  A bed with a blanket and a blanket on it.. <sep> toothbrush
+/home/arjunakula/Downloads/test/VizWiz_test_00007674.jpg  <sep>  A close up of a cake with a sign on it. <sep> suitcase
+/home/arjunakula/Downloads/test/VizWiz_test_00001573.jpg  <sep>  A bed with a white blanket and a white blanket it. <sep> sign
+/home/arjunakula/Downloads/test/VizWiz_test_00007683.jpg  <sep>  A sign with a sign on it and a sign on it <sep> sign
+/home/arjunakula/Downloads/test/VizWiz_test_00007526.jpg  <sep>  A table with a book and a book on it on it <sep> microwave
